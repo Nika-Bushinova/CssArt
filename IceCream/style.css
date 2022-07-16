@@ -1,7 +1,7 @@
 body{margin:0px}
 .ice{margin:0 auto;
    width:900px;
-   height:900px;
+   height:870px;
    background: #ffc509 url('img/sun.png') 85% 10%/40% no-repeat;
 }
 .ice:before, .ice:after{
